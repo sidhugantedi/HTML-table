@@ -1,0 +1,51 @@
+.tbl {
+    border: 2px solid black;
+    height: 500px;
+}
+tr td {
+    border: 2px solid black;
+    color: cadetblue;
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 75%;
+}
+.head {
+    color: black;
+    background-color:cornsilk;
+    font-family: monospace;
+    font-weight: 800;
+}
+.thd {
+    color: orangered;
+    font-size: 20px;
+    padding: 50px;
+}
+.A {
+    color: darkblue;
+    font-family: fantasy;
+    background-color: darkgray;
+}
+.B {
+    color: darkorange;
+    background-color: beige;
+    font-family: monospace;
+}
+.R {
+    color: black;
+    font-family: serif;
+    background-color: orange;
+}
+.c1 {
+    background-color: palegreen;
+    color: black;
+    font-family: sans-serif;
+}
+.c2 {
+    background-color: skyblue;
+    color: black;
+    font-family: cursive;
+}
